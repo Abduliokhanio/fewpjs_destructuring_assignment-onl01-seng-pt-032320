@@ -38,7 +38,8 @@ console.log(res);
 const [black_and_white, , black, pink, ] = res;
 console.log(res);
 // Arrays
-
+const [red, orange, yellow, green, blue, indigo, violet] = colors;
+console.log(colors);
 // 4. Use destructuring to assign appropriate variables using the color names.
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
